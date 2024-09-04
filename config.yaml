@@ -1,0 +1,22 @@
+credentials:
+ usernames:
+    abc:
+      email: abc@example.com
+      failed_login_attempts: 0
+      logged_in: False
+      name: abc name
+      password: abc1234
+    aroy:
+      email: def@example.com
+      failed_login_attempts: 0
+      logged_in: False
+      name: def name
+      password: def1234
+
+cookie:
+ expiry_days: 30
+ key: cook
+ name: pwd_auth
+
+pre-authorized:
+ emails: []
